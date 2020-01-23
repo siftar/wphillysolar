@@ -1,0 +1,137 @@
+S12 	
+household  	
+
+Limiters - Full Text
+
+Expanders - Apply equivalent subjects
+
+Narrow by Language: - english
+
+Search modes - Boolean/Phrase
+	
+View Results (255)
+View Details
+Edit
+	S11 	
+household  	
+
+Expanders - Apply equivalent subjects
+
+Narrow by Language: - english
+
+Search modes - Boolean/Phrase
+	
+View Results (559)
+View Details
+Edit
+	S10 	
+household  	
+
+Expanders - Apply equivalent subjects
+
+Search modes - Boolean/Phrase
+	
+View Results (569)
+View Details
+Edit
+	S9 	
+home  	
+
+Expanders - Apply equivalent subjects
+
+Narrow by Subject: - home environment
+
+Search modes - Boolean/Phrase
+	
+View Results (251)
+View Details
+Edit
+	S8 	
+home  	
+
+Expanders - Apply equivalent subjects
+
+Search modes - Boolean/Phrase
+	
+View Results (1,858)
+View Details
+Edit
+	S7 	
+"card sort"  	
+
+Expanders - Apply equivalent subjects
+
+Search modes - Boolean/Phrase
+	
+View Results (40)
+View Details
+Edit
+	S6 	
+card sort  	
+
+Expanders - Apply equivalent subjects
+
+Search modes - Boolean/Phrase
+	
+View Results (40)
+View Details
+Edit
+	S5 	
+dwelling  	
+
+Expanders - Apply equivalent subjects
+
+Search modes - Boolean/Phrase
+	
+View Results (289)
+View Details
+Edit
+	S4 	
+dwelling  	
+
+Limiters - Linked Full Text; Peer Reviewed
+
+Expanders - Apply equivalent subjects
+
+Search modes - SmartText Searching
+	
+Rerun
+View Details
+Edit
+	S3 	
+satisfaction AND ( home or domestic ) AND life  	
+
+Expanders - Apply equivalent subjects
+
+Narrow by Subject: - home environment
+
+Narrow by Language: - english
+
+Search modes - Boolean/Phrase
+	
+View Results (13)
+View Details
+Edit
+	S2 	
+satisfaction AND ( home or domestic ) AND life  	
+
+Expanders - Apply equivalent subjects
+
+Narrow by Language: - english
+
+Search modes - Boolean/Phrase
+	
+View Results (53)
+View Details
+Edit
+	S1 	
+satisfaction AND ( home or domestic ) AND life  	
+
+Expanders - Apply equivalent subjects
+
+Search modes - Boolean/Phrase
+	
+
+Chris Stephans <chrisstephans@hotmail.com>
+Bill Schier <bschier@verizon.net>
+Jon Sprout <jonsprout@jonsprout.com>
